@@ -1,3 +1,5 @@
+"""Python projects I did including random questions from internet(https://www.w3resource.com/python-exercises/python-basic-exercises.php) and some additional 'guessing game'and
+'dice roll game'"""
 import flask as flask
 
 """x,y=3,5
